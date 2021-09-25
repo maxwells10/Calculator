@@ -1,0 +1,37 @@
+body {
+    background-color: blueviolet;
+}
+
+table.tbl {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 15px;
+    box-shadow: rgb(116, 33, 33);
+}
+
+input[type="button"] {
+    color: black;
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    font-size: 2em;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 20px;
+    width: 100%;
+    margin: 10px 60px 10px 0px;
+}
+
+input[type="text"] {
+    color: black;
+    background: white;
+    border: 1px solid white;
+    padding: 20px;
+    font-size: 2em;
+    width: 100%;
+}
+
+#clear {
+    background: orangered;
+    border: 1px solid #;
+}
